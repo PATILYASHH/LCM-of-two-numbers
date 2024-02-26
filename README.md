@@ -22,7 +22,6 @@ Enter value of b: 36
 GCD of 24 and 36 is 12
 LCM of 24 and 36 is 72
 ```
-## Note
 
 ## Note
 
